@@ -17,7 +17,7 @@ A basic web scraper written in Go using the Colly framework to collect data from
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/AdamElmaghraby/YourWebScraper.git
+   git clone https://github.com/AdamElmaghraby/Simple-Web-Scraper---First-Project.git
 
 2. Install Go dependencies:
 
