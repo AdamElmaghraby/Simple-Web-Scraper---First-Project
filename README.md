@@ -36,7 +36,7 @@ A basic web scraper written in Go using the Colly framework to collect data from
 
 ## Note
 
-Due to Best Buy's page structure, it's currently limited to collecting price information for the first 3 products.
+Due to Best Buy's page structure, it's currently limited to only collecting css elements when using colly. Therefore, only collects first 3 listing's prices.
 
 
 ## Contributing
